@@ -1,0 +1,11 @@
+{
+  "name": "kevin_pratama-sentiment_analysis",
+  "version": "1.0.0",
+  "description": "tugas tb2 pengantar data mining",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevin_pratama",
+  "license": "ISC"
+}
